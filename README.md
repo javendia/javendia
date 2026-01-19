@@ -1,11 +1,14 @@
-# Hi 👋🏻, I'm Javier Buendía Carrera 🧑🏻‍💻
+# ¡Hola! 👋🏻, Soy Javier Buendía Carrera 🧑🏻‍💻
 
-I'm a data analytics professional with more than 8 years of experience, specializing in Microsoft technologies. Throughout my career, I've been involved in the design, implementation, and deployment of end-to-end data solutions, supporting clients across diverse industries and organizational sizes. My expertise covers the development of robust architectures, optimization of data workflows, and the generation of data-driven insights that support strategic decision-making and operational efficiency.
+Soy un profesional del mundo de los datos con más de 8 años de experiencia, especializado en tecnologías Microsoft. He trabajado en el diseño e implementación de soluciones de datos end-to-end para empresas de distintos sectores, ayudándolas a convertir sus datos en información útil para la toma de decisiones.
 
-Feel free to connect with me on LinkedIn if you think I can help you.
+Me apasiona buscar la mejor solución posible mientras aprendo algo nuevo cada día.
 
-<div align="left">
-  
-  [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Sígueme-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javierbuendia/)
+<br/>
+
+<div align="center">
+
+  [![GitHub](https://img.shields.io/github/followers/javendia?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javendia)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sígueme-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javierbuendia/)
 
 </div>
