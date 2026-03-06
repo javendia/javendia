@@ -8,7 +8,6 @@ Me apasiona buscar la mejor solución posible mientras aprendo algo nuevo cada d
 
 <div align="center">
 
-  [![GitHub](https://img.shields.io/github/followers/javendia?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javendia)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sígueme-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javierbuendia/)
 
 </div>
