@@ -8,6 +8,8 @@ Me apasiona buscar la mejor solución posible mientras aprendo algo nuevo cada d
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sígueme-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javierbuendia/)
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/javierbuendia)
+  [![Medium Badge](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@javendia)
+  [![Sessionize Badge](https://img.shields.io/badge/Sessionize-1D7874?style=for-the-badge&logo=sessionize&logoColor=white)](https://sessionize.com/javendia)
 
 </div>
